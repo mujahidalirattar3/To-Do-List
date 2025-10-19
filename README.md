@@ -31,12 +31,10 @@ A sleek and responsive To-Do List web application built with **vanilla JavaScrip
 
 ## 📁 Project Structure
 
-├── index.html 
-├── style.css
-└── script.js
 
-
----
+├── index.html      
+├── style.css       
+└── script.js       
 
 ## 🧰 Setup Instructions
 
